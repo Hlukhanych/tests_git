@@ -1,1 +1,7 @@
-nothing
+hello
+world
+
+so far
+new
+
+merge
